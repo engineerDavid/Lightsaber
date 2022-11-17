@@ -3,6 +3,7 @@ Using Fusion360 Electrical to design a timer circuit using NE555.
 
 ![alt text](https://github.com/engineerDavid/Lightsaber/blob/main/3d-design.PNG)
 
+![alt text](https://github.com/engineerDavid/Lightsaber/blob/main/Drawing2.PNG)
 
 Links Used: 
 
